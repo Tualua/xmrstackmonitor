@@ -1,2 +1,2 @@
-# xmrstackmonitor
-Repository for xmr-stack miner monitoring
+# xmrstakmonitor
+Repository for xmr-stak miner monitoring
